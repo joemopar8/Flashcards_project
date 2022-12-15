@@ -1,1 +1,1 @@
-# javascript_flashcards
+# javaScript Flashcards Tutorial
