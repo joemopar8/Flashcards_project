@@ -1,3 +1,3 @@
-# JavaScript Flashcards Project Tutorial
+# JavaScript Flashcards
 
 A fun and simple learning project.
